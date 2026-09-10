@@ -264,3 +264,8 @@ https://github.com/gopinathan-1806/n8n-slack-automation/blob/main/Slack%20Automa
 
 <img width="1449" height="669" alt="Screenshot 2026-09-10 at 9 06 13 PM" src="https://github.com/user-attachments/assets/fdedc83f-e82c-4970-9997-28fd48c54948" />
 
+## Response received on Slack
+
+<img width="1318" height="808" alt="image" src="https://github.com/user-attachments/assets/21c35416-93a7-41f4-b68a-8e2a2e04cb1f" />
+
+

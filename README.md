@@ -255,3 +255,12 @@ Answer appears in Slack
 **Built with n8n + Slack + OpenAI.**
 
 <img width="1536" height="1024" alt="slack-flowchart-diagram" src="https://github.com/user-attachments/assets/f375511e-7dc8-403f-aa57-ba7dc5420a9f" />
+
+## Use the JSON below to create the workflow and import it into n8n.
+
+https://github.com/gopinathan-1806/n8n-slack-automation/blob/main/Slack%20Automation.json
+
+## Realtime demo
+
+<img width="1449" height="669" alt="Screenshot 2026-09-10 at 9 06 13 PM" src="https://github.com/user-attachments/assets/fdedc83f-e82c-4970-9997-28fd48c54948" />
+
